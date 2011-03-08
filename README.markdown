@@ -3,3 +3,5 @@
 This is the shop application from the book.
 
 [*Agile Web Development with Rals - 4 Edition*](http://pragprog.com/titles/rails4/agile-web-development-with-rails)
+
+See the app at [*http://rordepot.heroku.com/*](http://rordepot.heroku.com)
